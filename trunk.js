@@ -1,0 +1,1 @@
+var elephant = val => 'Smaller than elephant';
