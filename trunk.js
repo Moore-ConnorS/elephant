@@ -1,1 +1,1 @@
-var elephant = val => 'Smaller than elephant';
+var elephant = val => console.log('Howdy');
